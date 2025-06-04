@@ -1,16 +1,46 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Siddharth Goswami</h1>
 
-<!--
-**siddharthGoswamii/siddharthGoswamii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🎓 MCA Graduate | 💻 Cloud Computing | 🚀 DevOps Enthusiast | 📍 IBM ASE Incoming  
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🎓 MCA from MMMUT Gorakhpur | BCA from IMS Ghaziabad  
+- 💼 Placed at IBM as Associate System Engineer  
+- ⚡ Passionate about Cloud Computing, CI/CD, and Automation  
+- 🏐 Volleyball Captain of MCA Dept | 2nd Rank in MCA  
+
+---
+
+### 🧰 Tech Stack
+**Languages:** `C++`, `JavaScript`, `PHP`, `HTML`, `CSS`, `MySQL`  
+**Frameworks & Tools:** `Bootstrap`, `Git`, `Jenkins`, `GitHub`  
+**Currently Exploring:** `Jenkins`
+
+---
+
+### 🔥 Projects
+- 🥘 **Food Waste Management System** – Online Food Tracking App *(PHP, MySQL, Bootstrap)*   
+- 🎮 **Snake Game** – Vanilla JavaScript Game
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=siddharthGoswamii&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthGoswamii&theme=tokyonight" />
+</p>
+
+---
+
+### 📬 Contact Me
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link-here/](https://www.linkedin.com/in/siddharthgoswami01?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 📧 sidgoswami9891@gmail.com
+- 🌐 [GitHub Portfolio](https://github.com/siddharthGoswamii)
+
+---
+
+### ✨ Fun Fact
+> I believe in growing daily — one line of code, one lesson, and one step at a time. 😄
