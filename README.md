@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Siddharth Goswami</h1>
 
 <p align="center">
-  🎓 MCA Graduate | 💻 Cloud Computing | 🚀 DevOps Enthusiast | 📍 IBM ASE   
+  🎓 MCA Graduate | 💻 Cloud Computing | 🚀 Data Engineer | 📍 IBM ASE   
 </p>
 
 ---
