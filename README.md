@@ -1,14 +1,14 @@
 <h1 align="center">Hi there 👋, I'm Siddharth Goswami</h1>
 
 <p align="center">
-  🎓 MCA Graduate | 💻 Cloud Computing | 🚀 DevOps Enthusiast | 📍 IBM ASE Incoming  
+  🎓 MCA Graduate | 💻 Cloud Computing | 🚀 DevOps Enthusiast | 📍 IBM ASE   
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 - 🎓 MCA from MMMUT Gorakhpur | BCA from IMS Ghaziabad  
-- 💼 Placed at IBM as Associate System Engineer  
+- 💼 Working at IBM as an Associate System Engineer  
 - ⚡ Passionate about Cloud Computing, CI/CD, and Automation  
 - 🏐 Volleyball Captain of MCA Dept | 2nd Rank in MCA  
 
