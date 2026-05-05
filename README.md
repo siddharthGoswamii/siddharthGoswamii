@@ -22,7 +22,7 @@
 
 ### 🚀 Current Focus & "Real Hustle"
 I don't just write code; I build systems. Currently, I am deep-diving into:
-- 📱 **Full-Stack Android Development**: Building a high-performance Expense Tracker using **Kotlin**, **PostgreSQL**, and **FastAPI**.
+- 📱 **Full-Stack Android Development**: Building a high-performance Expense Tracker using **Kotlin**, **MongoDB**, and **FastAPI**.
 - ☁️ **Cloud Economics**: Developing a **Cloud Cost Estimation** engine to optimize infrastructure spending.
 - 🤖 **Quantum Machine Learning**: Researching sustainable energy systems through the lens of QML.
 - 🛠️ **DevOps & CI/CD**: Masterminding automation with **Jenkins** and **GitHub Actions**.
@@ -40,14 +40,14 @@ I don't just write code; I build systems. Currently, I am deep-diving into:
 ---
 
 ### 🔥 Featured Projects
-- 💳 **Advanced Expense Tracker** – A full-stack Android app featuring local-to-cloud sync and transaction atomicity. *(Kotlin, PostgreSQL, FastAPI)*
+- 💳 **Advanced Expense Tracker** – A full-stack Android app featuring local-to-cloud sync and transaction atomicity. *(Kotlin, MongoDB, FastAPI)*
 - 📊 **Cloud Cost Estimator** – An analytical tool designed to predict and optimize multi-cloud infrastructure burn rates.
 - 🥘 **Food Waste Management** – A community-focused tracking system for sustainable resource allocation. *(PHP, MySQL)*
 
 ---
 
 ### 📈 Metrics of Growth
-<p align="left">
+<p align="centre">
   <img src="https://github-readme-stats.vercel.app/api?username=siddharthGoswamii&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthGoswamii&theme=tokyonight" height="180em" />
 </p>
