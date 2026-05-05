@@ -4,7 +4,7 @@
   <b>Data Engineer at IBM | Former Assistant Professor | Cloud & Automation Enthusiast</b>
 </p>
 
-<p align="centre">
+<p align="center">
   <img src="https://img.shields.io/badge/IBM-ASE-blue?style=for-the-badge&logo=ibm" />
   <img src="https://img.shields.io/badge/Main_Focus-Data_Engineering-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Exploring-Quantum_ML-purple?style=for-the-badge" />
@@ -47,7 +47,7 @@ I don't just write code; I build systems. Currently, I am deep-diving into:
 ---
 
 ### 📈 Metrics of Growth
-<p align="centre">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=siddharthGoswamii&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthGoswamii&theme=tokyonight" height="180em" />
 </p>
