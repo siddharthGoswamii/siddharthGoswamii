@@ -4,7 +4,7 @@
   <b>Data Engineer at IBM | Former Assistant Professor | Cloud & Automation Enthusiast</b>
 </p>
 
-<p align="center">
+<p align="centre">
   <img src="https://img.shields.io/badge/IBM-ASE-blue?style=for-the-badge&logo=ibm" />
   <img src="https://img.shields.io/badge/Main_Focus-Data_Engineering-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Exploring-Quantum_ML-purple?style=for-the-badge" />
