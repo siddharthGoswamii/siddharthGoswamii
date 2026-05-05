@@ -30,12 +30,18 @@ I don't just write code; I build systems. Currently, I am deep-diving into:
 ---
 
 ### 🧰 Tech Stack
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | `C++`, `Kotlin`, `Java`, `JavaScript`, `PHP`, `Python` |
-| **Data & Backend** | `PostgreSQL`, `MySQL`, `FastAPI`, `REST APIs` |
-| **DevOps & Cloud** | `Jenkins`, `Git`, `GitHub`, `CI/CD Automation` |
-| **Frontend** | `Android XML`, `Bootstrap`, `HTML5`, `CSS3` |
+
+**Core Engineering**  
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+**Data & Infrastructure**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -51,6 +57,9 @@ I don't just write code; I build systems. Currently, I am deep-diving into:
   <img src="https://github-readme-stats.vercel.app/api?username=siddharthGoswamii&show_icons=true&theme=tokyonight&count_private=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddharthGoswamii&theme=tokyonight" height="180em" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddharthGoswamii&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
@@ -58,6 +67,10 @@ I don't just write code; I build systems. Currently, I am deep-diving into:
 <p align="left">
 <a href="https://www.linkedin.com/in/siddharthgoswami01"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:sidgoswami9891@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/siddharthGoswamii/count.svg" />
 </p>
 
 ---
