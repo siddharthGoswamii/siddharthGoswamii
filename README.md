@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Siddharth%20Goswami&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Systems%20Engineer%20%E2%80%94%20I%20don't%20just%20write%20code.%20I%20build%20systems.&descAlignY=60&descFontSize=16" />
 
 <!-- TYPING ANIMATION -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=8B7FFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Data+Engineer+%40+IBM+%F0%9F%92%BC;Building+Cloud+%26+Automation+Systems+%E2%9A%99%EF%B8%8F;Kotlin+%7C+Python+%7C+FastAPI+%7C+React;Former+Assistant+Professor+%F0%9F%8E%93;MCA+2nd+Rank+%C2%B7+MMMUT+Gorakhpur+%F0%9F%8F%86;Volleyball+Captain+%F0%9F%8F%90+%C2%B7+Hackathon+Organizer" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3500&pause=1000&color=8B7FFF&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=50&lines=Data+Engineer+%40+IBM+%F0%9F%92%BC;Building+Cloud+%26+Automation+Systems+%E2%9A%99%EF%B8%8F;Kotlin+%7C+Python+%7C+FastAPI+%7C+React;Former+Assistant+Professor+%F0%9F%8E%93;MCA+2nd+Rank+%C2%B7+MMMUT+Gorakhpur+%F0%9F%8F%86" />
 
 <br/>
 
