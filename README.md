@@ -176,7 +176,7 @@ Microservice architecture with independent services for auth, media streaming, p
 
 **Stack:** `Node.js` · `TypeScript` · `PostgreSQL` · `Redis` · `Elasticsearch` · `Docker`
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=siddharthGoswamii&repo=music-streaming-platform&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7)](https://github.com/siddharthGoswamii)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=siddharthGoswamii&repo=music-streaming-application-backend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7)](https://github.com/siddharthGoswamii)
 
 </td>
 <td width="50%" valign="top">
@@ -192,7 +192,7 @@ Full-stack Android application with secure authentication, offline-to-cloud sync
 
 **Stack:** `Kotlin` · `Node.js` · `Express` · `MongoDB` · `JWT`
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=siddharthGoswamii&repo=expense-tracker&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7)](https://github.com/siddharthGoswamii)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=siddharthGoswamii&repo=expense-tracker-android&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7aa2f7&icon_color=bb9af7)](https://github.com/siddharthGoswamii)
 
 </td>
 </tr>
